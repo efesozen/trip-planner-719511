@@ -1,0 +1,11 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { TripsModule } from './modules/trips/trips.module';
+import { ItinerarysModule } from './modules/itineraries/itineraries.module';
+import { TripsharesModule } from './modules/tripshares/tripshares.module';
+import { FeedbacksModule } from './modules/feedbacks/feedbacks.module';
+
+// Add to @Module imports array:
+// TripsModule,
+// ItinerarysModule,
+// TripsharesModule,
+// FeedbacksModule
